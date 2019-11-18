@@ -51,21 +51,21 @@ ________________________
 
   2.Define libraries.
   
-  3.Define imports.
+  3.Define import(s).
   
-  4.Define interfaces.
+  4.Define interface(s).
 
-  5.Define global variables.
+  5.Define global variable(s).
 
   6.Define contracts **(At least 1).**
 
-  7.Define local variables.
+  7.Define local variable(s).
 
   8.Define contract's constructor(s).
 
-  9.Define contract's modifiers.
+  9.Define contract's modifier(s).
 
-  10.Define contract's events.
+  10.Define contract's event(s).
 
   11.Define contract's function(s).
 
