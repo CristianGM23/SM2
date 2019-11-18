@@ -33,7 +33,7 @@ _______________
 
 **SmaC Guide**
 _______________________
-* If you have an Eclipse running :
+* If you have an Eclipse running:
 
   1.Choose New -> Project -> Choose a name for your project -> Click Finish
 
@@ -42,6 +42,8 @@ _______________________
   3.Choose Smac Model's name -> Choose "File" element as the root of the model -> Ok
 
   4.Write a Solidity Smart contract.
+  
+Download a SmaC Guide PDF: [Link download](https://github.com/CristianGM23/SM2/blob/master/SmaCUpdateSite.zip)
 
 **Tips**
 ________________________
