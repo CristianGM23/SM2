@@ -15,7 +15,7 @@ _______________
 _______________
 * If you have an Eclipse running :
 
-  1.Download the SmaC Update Site: 
+  1.Download the SmaC Update Site: [Link download](https://github.com/CristianGM23/SM2/blob/master/SmaCUpdateSite.zip)
 
   2.Choose Help -> Install New Software... from the menu bar and click Add...
 
@@ -35,9 +35,9 @@ _______________
 _______________________
 * If you have an Eclipse running :
 
-  1.Choose New -> Project -> Choose project's name -> Click Finish
+  1.Choose New -> Project -> Choose a name for your project -> Click Finish
 
-  2.Choose New -> Other -> Search by: SmaC Model in the search box -> Choose
+  2.Choose New -> Other -> Search by: "SmaC Model" in the search box -> Choose option "SmaC model"
 
   3.Choose Smac Model's name -> Choose "File" element as the root of the model -> Ok
 
