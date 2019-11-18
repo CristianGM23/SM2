@@ -47,7 +47,7 @@ _______________________
 ________________________
 * Language Patterns:
 
-  1.Define compiler's version **(Obligatory).**.
+  1.Define compiler's version **(Obligatory).**
 
   2.Define libraries.
   
