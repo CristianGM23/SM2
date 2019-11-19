@@ -13,6 +13,9 @@ _______________
 
 **Install SmaC from Update Site**
 _______________
+
+**It is necessary to have the Xtext and Sirius plugins installed previously so that the installation does not generate conflicts.**
+
 * If you have an Eclipse running :
 
   1.Download the SmaC Update Site: [Link download](https://github.com/CristianGM23/SM2/blob/master/SmaCUpdateSite.zip)
